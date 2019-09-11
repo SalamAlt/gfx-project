@@ -1,11 +1,12 @@
 Disclaimer: this was done as a course project and should not be used without permission
+How to run: Open the sln file in visual studio 2017
 3rd Year Computer Graphics Winter 2019 Project
 Group Members: Salam Al-Tamimi (solo)
 
 Note: I included screenshots just in case.
 
 Summary
-I created a scene that shows either .obj models or simply cubes whose positions I wrote in code. There is an option to use textures, the camera is movable, and there is directional light.
+Using C++ and SDL2,I created a scene that shows either .obj models or simply cubes whose positions I wrote in code. There is an option to use textures, the camera is movable, and there is directional light.
 Note: the FPS is really low (1/second) when using the .obj models provided.
 
 Goals Met
