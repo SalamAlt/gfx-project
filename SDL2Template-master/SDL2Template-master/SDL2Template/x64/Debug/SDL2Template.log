@@ -1,0 +1,7 @@
+﻿  main.cpp
+     Creating library C:\Users\Salam\Downloads\SDL2Template-master\SDL2Template-master\x64\Debug\SDL2Template.lib and object C:\Users\Salam\Downloads\SDL2Template-master\SDL2Template-master\x64\Debug\SDL2Template.exp
+  SDL2Template.vcxproj -> C:\Users\Salam\Downloads\SDL2Template-master\SDL2Template-master\x64\Debug\SDL2Template.exe
+c:\users\salam\downloads\sdl2template-master\sdl2template-master\sdl2template\main.cpp(323): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+c:\users\salam\downloads\sdl2template-master\sdl2template-master\sdl2template\main.cpp(447): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+c:\users\salam\downloads\sdl2template-master\sdl2template-master\sdl2template\main.cpp(464): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+c:\users\salam\downloads\sdl2template-master\sdl2template-master\sdl2template\main.cpp(543): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).

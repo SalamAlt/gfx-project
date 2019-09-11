@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\salam\downloads\sdl2template-master\sdl2template-master\sdl2template</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>323</LINE>
+      <COLUMN>77</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>DrawSpan</FUNCTION>
+    <DECORATED>?DrawSpan@@YAXPEAUSDL_Surface@@0AEBV?$Matrix@M$03$03$0A@$03$03@Eigen@@MHHH@Z</DECORATED>
+    <FUNCLINE>320</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\salam\downloads\sdl2template-master\sdl2template-master\sdl2template</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>447</LINE>
+      <COLUMN>54</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>DrawColumn</FUNCTION>
+    <DECORATED>?DrawColumn@@YAXQEAUSDL_Surface@@QEBU1@_K_J3MMM@Z</DECORATED>
+    <FUNCLINE>435</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\salam\downloads\sdl2template-master\sdl2template-master\sdl2template</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>464</LINE>
+      <COLUMN>58</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>DrawColumn</FUNCTION>
+    <DECORATED>?DrawColumn@@YAXQEAUSDL_Surface@@QEBU1@_K_J3MMM@Z</DECORATED>
+    <FUNCLINE>435</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\salam\downloads\sdl2template-master\sdl2template-master\sdl2template</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>543</LINE>
+      <COLUMN>88</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>DrawSky</FUNCTION>
+    <DECORATED>?DrawSky@@YAXPEAUGameResources@@PEAUSDL_Surface@@@Z</DECORATED>
+    <FUNCLINE>512</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
