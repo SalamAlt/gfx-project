@@ -1,5 +1,5 @@
 Disclaimer: this was done as a course project and should not be used without permission
-How to run: Open the sln file in visual studio 2017
+How to run: Open the sln file in SDL2-template-master in visual studio 2017
 3rd Year Computer Graphics Winter 2019 Project
 Group Members: Salam Al-Tamimi (solo)
 
